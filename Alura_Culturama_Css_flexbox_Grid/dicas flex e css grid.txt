@@ -1,0 +1,4 @@
+dicas:
+1 - A propriedade justify-content alinha itens no eixo principal,
+ e a propriedade align-items alinha itens no eixo transversal. 
+ Aplicando o valor center para ambas propriedades, o item ficará no centro do seu container.
